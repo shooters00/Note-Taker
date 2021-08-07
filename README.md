@@ -5,6 +5,9 @@
 ## Description
 This is a JHU Bootcamp assignment.  This application can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
 
+## Screenshot
+![Note Taker App](https://user-images.githubusercontent.com/80861572/128616416-cd518674-e111-4d4e-9ce9-5f7f8e71b526.png)
+
 #### Table of Contents
 If your README is long, add a table of contents to make it easy for users to find what they need.
 1. [Installation](#installation)
