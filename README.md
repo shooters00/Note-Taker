@@ -5,6 +5,9 @@
 ## Description
 Build a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL.
 
+## Screenshot
+![Note Taker App](https://user-images.githubusercontent.com/80861572/128616416-cd518674-e111-4d4e-9ce9-5f7f8e71b526.png)
+
 #### Table of Contents
 1. [Installation](#installation)
 2. [Usage](#usage)
