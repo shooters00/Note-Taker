@@ -1,12 +1,11 @@
 
 <a href="" rel="nofollow"><img src="https://img.shields.io/badge/license-none-blue.svg" alt="None" title="None" style="max-width:100%;"></a>
-# NOTE TAKER
+# EMPLOYEE TRACKER
 
 ## Description
-This is a JHU Bootcamp assignment.  This application can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
+Build a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL.
 
 #### Table of Contents
-If your README is long, add a table of contents to make it easy for users to find what they need.
 1. [Installation](#installation)
 2. [Usage](#usage)
 3. [License](#license)
@@ -15,10 +14,10 @@ If your README is long, add a table of contents to make it easy for users to fin
 6. [Questions](#questions)
 
 ## Installation
-To install, clone the github repository https://github.com/shooters00/Note-Taker .
+To install, clone the github repository https://github.com/shooters00/Employee-Tracker 
 
 ## Usage
-Launch the app: https://afternoon-wildwood-16143.herokuapp.com/ . Go to 'Get Started'. Add notes using the '+' sign.
+node server
 
 ## License
 This project is covered under the None license. 
